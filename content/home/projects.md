@@ -27,9 +27,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
+    - name: Reinforcement Learning
       tag: Deep Learning
-    - name: Other
+    - name: CPU Design
       tag: Demo
 
 design:

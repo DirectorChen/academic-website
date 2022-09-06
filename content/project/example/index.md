@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: AirSim Project
+summary: Reinforcement learning AirSim project based on Deep Q-learning.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/
 url_code: ''
 url_pdf: ''
 url_slides: ''
