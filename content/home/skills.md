@@ -24,7 +24,10 @@ feature:
     icon: java
     icon_pack: fab
     name: Java
-
+  - description: 80%
+    icon: c
+    icon_pack: fas
+    name: C
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
