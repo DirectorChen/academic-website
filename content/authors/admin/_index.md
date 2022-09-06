@@ -27,13 +27,13 @@ education:
   courses:
     - course: MEng in Electrical Engineering
       institution: The George Washington Univerisity
-      year: 2022
+      year: 2023
     - course: BSc in Electrical Engineering
       institution: University of Manchester
       year: 2018
     - course: BSc in Electrical Engineering
       institution: Beijing Jiaotong University
-      year: 2016
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
